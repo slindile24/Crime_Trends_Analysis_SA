@@ -14,3 +14,17 @@ Analyse crime trends over time
 Practice real-world data transformation using Pandas
 
 
+## Dataset
+
+The dataset contains crime statistics per:
+
+Province
+
+Police Station
+
+Crime Category
+
+Financial Year (2005–2006 to 2015–2016)
+
+Originally, each year existed as a separate column (wide format).
+

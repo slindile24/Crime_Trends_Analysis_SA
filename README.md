@@ -1,12 +1,16 @@
-# Crime_Trends_Analysis_SA
-Project Goal
+# South Africa Crime Statistics Analysis
+## Project Overview
 
-To analyze crime patterns in South Africa and answer questions like:
+This project performs an ETL (Extract, Transform, Load) and Exploratory Data Analysis (EDA) process on South African crime statistics data.
 
-Which provinces have the highest crime rates?
+The goal was to:
 
-Which crime categories are most common?
+Identify provinces with the highest crime levels
 
-Are certain crimes increasing or decreasing over time?
+Determine the most common crime categories
 
-What patterns can we observe?
+Analyse crime trends over time
+
+Practice real-world data transformation using Pandas
+
+

@@ -40,3 +40,17 @@ Jupyter Notebook
 
 Seaborn 
 
+## Skills Demonstrated
+
+Data Cleaning
+
+Data Reshaping (wide → long using melt)
+
+GroupBy Aggregations
+
+Trend Analysis
+
+Data Visualization
+
+ETL Pipeline Design
+

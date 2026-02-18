@@ -58,7 +58,7 @@ What I Learned
 
 The importance of data structure in analysis
 
-Why long-format data is better for time-series analysis
+Why long-format data is better for time-series analysis (How it makes group-by functioning easier and how it makes the data easy ro read)
 
 How to design a simple but clean ETL workflow
 

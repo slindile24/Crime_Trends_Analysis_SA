@@ -50,7 +50,7 @@ GroupBy Aggregations
 
 Trend Analysis
 
-Data Visualization
+Data Visualization(Used Matplotlib and Seaborn)
 
 ETL Pipeline Design
 

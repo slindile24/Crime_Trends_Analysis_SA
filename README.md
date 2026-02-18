@@ -62,5 +62,7 @@ Why long-format data is better for time-series analysis
 
 How to design a simple but clean ETL workflow
 
+Used seaborn for styling of my graph(NB: Now I know that it expects data to be in a dataframe)
+
 
 

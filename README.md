@@ -62,5 +62,5 @@ Why long-format data is better for time-series analysis
 
 How to design a simple but clean ETL workflow
 
-How to build analysis projects suitable for a portfolio
+
 
